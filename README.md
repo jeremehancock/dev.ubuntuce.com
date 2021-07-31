@@ -2,14 +2,18 @@
 
 This is the DEV repo for [UbuntuCE](https://ubuntuce.com/).
 
-DO NOT USE!
+**DO NOT USE!**
 
-THIS IS ONLY USED DURING THE DEVELOPOMENT OF UBUNTUCE!
+**THIS IS ONLY USED DURING THE DEVELOPOMENT OF UBUNTUCE!**
 
 ## Usage
 
-```bash
-curl -s --compressed "https://dev.ubuntuce.com/KEY.gpg" | sudo apt-key add -
-sudo curl -s --compressed -o /etc/apt/sources.list.d/ubuntuce-dev.list "https://dev.ubuntuce.com/ubuntuce-dev.list"
-sudo apt update
-```
+#### Add UbuntuCE Repo Key
+`curl -s --compressed "https://dev.ubuntuce.com/KEY.gpg" | sudo apt-key add -`
+
+#### Add UbuntuCE Repo
+`sudo curl -s --compressed -o /etc/apt/sources.list.d/ubuntuce-dev.list "https://dev.ubuntuce.com/ubuntuce-dev.list"`
+
+#### Update Packages
+`sudo apt update`
+

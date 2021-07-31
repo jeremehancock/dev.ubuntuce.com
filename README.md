@@ -1,6 +1,12 @@
-# UbuntuCE Dev Repo
+<h1><img src="https://raw.githubusercontent.com/mhancoc7/repo.ubuntuce.com/main/logo.png" height="50" /> UbuntuCE DEV Repo</h1>
 
-Do not use for production or personal system. This repo is used during the development of UbuntuCE apps
+This is the DEV repo for [UbuntuCE](https://ubuntuce.com/).
+
+DO NOT USE!
+
+THIS IS ONLY USED DURING THE DEVELOPOMENT OF UBUNTUCE!
+
+## Usage
 
 ```bash
 curl -s --compressed "https://dev.ubuntuce.com/KEY.gpg" | sudo apt-key add -

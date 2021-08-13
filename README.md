@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/mhancoc7/repo.ubuntuce.com/main/logo.png" height="50" /> UbuntuCE DEV Repo</h1>
+<h1><img src="https://raw.githubusercontent.com/jeremehancock/repo.ubuntuce.com/main/logo.png" height="50" /> UbuntuCE DEV Repo</h1>
 
 This is the DEV repo for [UbuntuCE](https://ubuntuce.com/).
 

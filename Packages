@@ -28,6 +28,20 @@ Section: web
 Priority: optional
 Description: Host Minder
 
+Package: ubuntu-ce-wallpapers
+Version: 0.0.2
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 12900
+Filename: ./ubuntu-ce-wallpapers_0.0.2_all.deb
+Size: 12764024
+MD5sum: 16c4a88830ba07b62fae9563762c20bf
+SHA1: 5b34355d4eb365234576d732b89169094b2ef7b2
+SHA256: 16122a1364eaf077dbf7d9dfd32d2af852045f1f12946eb03b3375a5b8157e40
+Section: x11
+Priority: optional
+Description: Christian Wallpapers for Ubuntu CE
+
 Package: ubuntu-ce-welcome
 Version: 0.0.7
 Architecture: all

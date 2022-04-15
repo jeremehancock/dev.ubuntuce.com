@@ -28,6 +28,21 @@ Section: web
 Priority: optional
 Description: Host Minder
 
+Package: presenter-by-worship-tools
+Version: 0.0.6
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 139000
+Depends: zenity, curl, jq, wget, libfuse2
+Filename: ./presenter-by-worship-tools_0.0.6_all.deb
+Size: 8812
+MD5sum: 89700d1fb8d8622e83492f685a704598
+SHA1: dc421c162b2b8d9ab640fc38db60d9aa843f0629
+SHA256: bb8487867a441dde68bf94fa3f90e4fe4ed85495143f2d65ee5ffa68f311ace2
+Section: web
+Priority: optional
+Description: Presenter by WorshipTools
+
 Package: ubuntu-ce-wallpapers
 Version: 0.0.2
 Architecture: all
@@ -56,19 +71,4 @@ SHA256: 6c2adc9521794cdbad81b3cb646a08567446e5b2ef2287c0f8a35dd320073938
 Section: system
 Priority: optional
 Description: Welcome to UbuntuCE
-
-Package: worship-extreme-presenter
-Version: 0.0.5
-Architecture: all
-Maintainer: Jereme Hancock <support@ubuntuce.com>
-Installed-Size: 139000
-Depends: zenity, curl, jq, wget, libfuse2
-Filename: ./worship-extreme-presenter_0.0.5_all.deb
-Size: 8524
-MD5sum: a015732e9dbe443466274d62d4bc7bc9
-SHA1: d4514f3d438ac3f6a11a01cdb0ea39125707e8a7
-SHA256: 91998575a38730d3b14dd565a174dd3c03bce38785cadf8baad1d9fe6383371c
-Section: web
-Priority: optional
-Description: Presenter by WorshipTools
 

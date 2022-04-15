@@ -62,13 +62,13 @@ Version: 0.0.3
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 139000
-Depends: zenity, curl, jq, wget
+Depends: zenity, curl, jq, wget, fuse
 Filename: ./worship-extreme-presenter_0.0.3_all.deb
-Size: 8452
-MD5sum: 5c645fce14235ce3442742dab939c14d
-SHA1: 63611c76248a92a44bb7a5bae7468be88e1db52a
-SHA256: 35becc77b1c0dc8fc4906a83dc5de8e27a6707235466ef94b1def410a6f08730
+Size: 8464
+MD5sum: 3db8b74861e8467df08ef545e7ca6630
+SHA1: a798319406735a888452824e93a7971f873c4ef0
+SHA256: 093da714264dfdd8e02b0282fd2d16c15c5bc85ac94d2422dcfdcfd06900ea50
 Section: web
 Priority: optional
-Description: WorshipExtreme Presenter
+Description: Presenter by WorshipTools
 

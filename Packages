@@ -58,16 +58,16 @@ Priority: optional
 Description: Christian Wallpapers for Ubuntu CE
 
 Package: ubuntu-ce-welcome
-Version: 0.0.7
+Version: 0.0.8
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 1300
 Depends: gambas3-runtime, gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, gambas3-gb-form, hostminder, dnsminder
-Filename: ./ubuntu-ce-welcome_0.0.7_all.deb
-Size: 54416428
-MD5sum: 0cf846316f26d3073eb79cb867d53576
-SHA1: f7073cacb848a87f1d43a42b400725cb8f91aa07
-SHA256: 6c2adc9521794cdbad81b3cb646a08567446e5b2ef2287c0f8a35dd320073938
+Filename: ./ubuntu-ce-welcome_0.0.8_all.deb
+Size: 4386700
+MD5sum: ac8bf9909ca76d28e23f66e184260ceb
+SHA1: d534d000732274f2b2acaf7323f71e1c0f92ae02
+SHA256: e3cce9535c22026a886cb2c56053e89b2ea459fc08c26c9498f3fad463224236
 Section: system
 Priority: optional
 Description: Welcome to UbuntuCE

@@ -43,6 +43,21 @@ Section: web
 Priority: optional
 Description: Presenter by WorshipTools
 
+Package: ubuntu-ce-parental-controls
+Version: 0.0.1
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 51.7
+Depends: malcontent, malcontent-gui
+Filename: ./ubuntu-ce-parental-controls_0.0.1_all.deb
+Size: 9152
+MD5sum: c10e46932ea42d2b4178744d7bb3f312
+SHA1: 9607dec33101e32454dd00e24b5ca4f5f8e4d28c
+SHA256: f2a85f06fd654c9d482446f8025676cdc40b1e05db44f993a07a26fce8cee950
+Section: web
+Priority: optional
+Description: Parental Controls
+
 Package: ubuntu-ce-wallpapers
 Version: 0.0.2
 Architecture: all

@@ -12,7 +12,7 @@ This is the DEV repo for [UbuntuCE](https://ubuntuce.com/).
 `wget https://dev.ubuntuce.com/KEY.gpg && gpg --output ubuntuce-dev.gpg --dearmor KEY.gpg && sudo mv ubuntuce-dev.gpg /usr/share/keyrings/ && rm KEY.gpg`
 
 #### Add UbuntuCE Repo
-`sudo apt install curl -y && sudo curl -s --compressed -o /etc/apt/sources.list.d/ubuntuce-dev-jammy.list "https://job.ubuntuce.com/ubuntuce-dev-jammy.list"`
+`sudo apt install curl -y && sudo curl -s --compressed -o /etc/apt/sources.list.d/ubuntuce-dev-jammy.list "https://dev.ubuntuce.com/ubuntuce-dev-jammy.list"`
 
 #### Update Packages
 `sudo apt update`

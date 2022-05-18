@@ -1,2 +1,2 @@
-deb [signed-by=/usr/share/keyrings/ubuntuce.gpg] http://dev.ubuntuce.com ./
+deb [signed-by=/usr/share/keyrings/ubuntuce-dev.gpg] http://dev.ubuntuce.com ./
 

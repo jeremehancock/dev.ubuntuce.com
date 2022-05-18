@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "Create GPG Key"
+gpg --armor --export "support@ubuntuce.com" > KEY.gpg
+
 echo "Create Packages & Packages.gz"
 dpkg-scanpackages --multiversion . > Packages
 gzip -k -f Packages

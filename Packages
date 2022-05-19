@@ -89,17 +89,19 @@ Priority: optional
 Description: UbuntuCE Wallpapers
 
 Package: ubuntu-ce-welcome
-Version: 0.0.16
+Version: 0.0.54-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
-Installed-Size: 1300
-Depends: gambas3-runtime, gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, gambas3-gb-form, hostminder, dnsminder, ubuntu-ce-parental-controls, timekpr-next, freeshow
-Filename: ./ubuntu-ce-welcome_0.0.16_all.deb
-Size: 4821720
-MD5sum: 51b4f1162df49f66f4ec0072aed8d407
-SHA1: 7241c63a97dfa54e6fa3a59c43b68e415e9fe38e
-SHA256: cdffc3b89cf215705dae72ff5949a5ad30b34315780812cbfe22df627df5dc88
-Section: system
+Installed-Size: 6129
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, hostminder, dnsminder, ubuntu-ce-software-center
+Filename: ./ubuntu-ce-welcome_0.0.54-0ubuntu1_all.deb
+Size: 4843414
+MD5sum: 21c689dbf115d82e3bd254735751f716
+SHA1: 9079509b3d1b725917a03988c9e962bc0299fda9
+SHA256: 782a647680b0a125eacc44f0d63803b4a320ffd22a84635a14624919b29165ef
+Section: contrib/utils
 Priority: optional
-Description: Welcome to UbuntuCE
+Description: Missing description.
+ Missing description.
+ This program is written in Gambas.
 

@@ -89,16 +89,16 @@ Priority: optional
 Description: UbuntuCE Wallpapers
 
 Package: ubuntu-ce-welcome
-Version: 0.0.56-0ubuntu1
+Version: 0.0.58-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
-Installed-Size: 6044
-Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, hostminder, dnsminder, ubuntu-ce-software-center
-Filename: ./ubuntu-ce-welcome_0.0.56-0ubuntu1_all.deb
-Size: 4771780
-MD5sum: 943dd850e63743ef037fa839ff74d0c3
-SHA1: 21d2ad7cfdc2e4abaeca76fdda71cdb95ef33295
-SHA256: e7bebb013effa6f8e6c888fb71241c35eb4f065bc20349f66469a21272dc5a60
+Installed-Size: 6078
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, hostminder, dnsminder, ubuntu-ce-software-center
+Filename: ./ubuntu-ce-welcome_0.0.58-0ubuntu1_all.deb
+Size: 4799402
+MD5sum: cd203976dc20cc99c5e85e4afc1ed94d
+SHA1: dad3b3898056b0d287ae351272a4442cb385f043
+SHA256: 57069d1d0ccb812a499d659080f657fa02ed21ace0d966d5f7a0324b8a598a5d
 Section: contrib/utils
 Priority: optional
 Description: Missing description.

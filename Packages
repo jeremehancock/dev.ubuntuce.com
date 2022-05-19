@@ -75,18 +75,18 @@ Description: Linux for Christians
  This program is written in Gambas.
 
 Package: ubuntu-ce-wallpapers
-Version: 0.0.2
+Version: 0.0.3
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 12900
-Filename: ./ubuntu-ce-wallpapers_0.0.2_all.deb
-Size: 12764024
-MD5sum: 16c4a88830ba07b62fae9563762c20bf
-SHA1: 5b34355d4eb365234576d732b89169094b2ef7b2
-SHA256: 16122a1364eaf077dbf7d9dfd32d2af852045f1f12946eb03b3375a5b8157e40
+Filename: ./ubuntu-ce-wallpapers_0.0.3_all.deb
+Size: 12762772
+MD5sum: 52f30fd9fc107b845f8a4560e520bd20
+SHA1: 0e951560ce1754b70122cdcc7378367a69e4020e
+SHA256: e005438f6d148435a026643e8c909b6c58a9ceb554513be6aaf64c68f4047d8c
 Section: x11
 Priority: optional
-Description: Christian Wallpapers for Ubuntu CE
+Description: UbuntuCE Wallpapers
 
 Package: ubuntu-ce-welcome
 Version: 0.0.16

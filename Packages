@@ -43,6 +43,20 @@ Section: web
 Priority: optional
 Description: Parental Controls
 
+Package: ubuntu-ce-plymouth-theme
+Version: 0.0.1
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 360
+Filename: ./ubuntu-ce-plymouth-theme_0.0.1_all.deb
+Size: 102176
+MD5sum: 3a253d9ca7b6b6ed123b55a4bd4848ee
+SHA1: a15b2a1feeee75cb617da35424bc237d38c5afca
+SHA256: 775bf8dc298d96665dd6fc06b09c3519e9602922bbcab1ce69207e3c54485f13
+Section: x11
+Priority: optional
+Description: UbuntuCE Plymouth Theme
+
 Package: ubuntu-ce-software-center
 Version: 0.0.31-0ubuntu1
 Architecture: all

@@ -58,16 +58,16 @@ Priority: optional
 Description: UbuntuCE Plymouth Theme
 
 Package: ubuntu-ce-software-center
-Version: 0.0.33-0ubuntu1
+Version: 0.0.35-0ubuntu1
 Architecture: all
 Maintainer: UbuntuCE <support@ubuntuce.com>
-Installed-Size: 539
+Installed-Size: 544
 Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), snapd, flatpak, gambas3-gb-jit, gnome-terminal, curl, wget, gambas3-gb-gui, gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11
-Filename: ./ubuntu-ce-software-center_0.0.33-0ubuntu1_all.deb
-Size: 422406
-MD5sum: 77c891f7eb1dcd07f5b7fc4b6b48c9e5
-SHA1: 446de1e953b070f6a5c3a59256d88c7fa29bd173
-SHA256: 94b5b9963c541ba3d556f363bec298ae34fbf80bd7e909210cb81c1f2afbe4b7
+Filename: ./ubuntu-ce-software-center_0.0.35-0ubuntu1_all.deb
+Size: 423506
+MD5sum: 429c71a207d2e5b4c9c672f19886a1f3
+SHA1: aba1d0192b63122b5d3bc475640c2c7469c7c8eb
+SHA256: 0cfa81e96eb73e9b079ed875c6eeab05bd7b8ac41434118600eca848827cf7b3
 Section: contrib/utils
 Priority: optional
 Description: Linux for Christians

@@ -58,16 +58,16 @@ Priority: optional
 Description: UbuntuCE Plymouth Theme
 
 Package: ubuntu-ce-software-center
-Version: 0.0.31-0ubuntu1
+Version: 0.0.33-0ubuntu1
 Architecture: all
 Maintainer: UbuntuCE <support@ubuntuce.com>
-Installed-Size: 538
+Installed-Size: 539
 Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), snapd, flatpak, gambas3-gb-jit, gnome-terminal, curl, wget, gambas3-gb-gui, gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11
-Filename: ./ubuntu-ce-software-center_0.0.31-0ubuntu1_all.deb
-Size: 422332
-MD5sum: 32236c66d8bf9542d2a99c01d629f5c1
-SHA1: 9e3b428aebfc1f3ab943374da402f95260d76f52
-SHA256: ae1271923f3d22307d53b94b5b5301f6a811d5a23415c63d4a5800fc54f78188
+Filename: ./ubuntu-ce-software-center_0.0.33-0ubuntu1_all.deb
+Size: 422406
+MD5sum: 77c891f7eb1dcd07f5b7fc4b6b48c9e5
+SHA1: 446de1e953b070f6a5c3a59256d88c7fa29bd173
+SHA256: 94b5b9963c541ba3d556f363bec298ae34fbf80bd7e909210cb81c1f2afbe4b7
 Section: contrib/utils
 Priority: optional
 Description: Linux for Christians
@@ -89,16 +89,16 @@ Priority: optional
 Description: UbuntuCE Wallpapers
 
 Package: ubuntu-ce-welcome
-Version: 0.0.54-0ubuntu1
+Version: 0.0.56-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
-Installed-Size: 6129
-Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, hostminder, dnsminder, ubuntu-ce-software-center
-Filename: ./ubuntu-ce-welcome_0.0.54-0ubuntu1_all.deb
-Size: 4843414
-MD5sum: 21c689dbf115d82e3bd254735751f716
-SHA1: 9079509b3d1b725917a03988c9e962bc0299fda9
-SHA256: 782a647680b0a125eacc44f0d63803b4a320ffd22a84635a14624919b29165ef
+Installed-Size: 6044
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, hostminder, dnsminder, ubuntu-ce-software-center
+Filename: ./ubuntu-ce-welcome_0.0.56-0ubuntu1_all.deb
+Size: 4771780
+MD5sum: 943dd850e63743ef037fa839ff74d0c3
+SHA1: 21d2ad7cfdc2e4abaeca76fdda71cdb95ef33295
+SHA256: e7bebb013effa6f8e6c888fb71241c35eb4f065bc20349f66469a21272dc5a60
 Section: contrib/utils
 Priority: optional
 Description: Missing description.

@@ -49,10 +49,10 @@ Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 6127
 Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, hostminder, dnsminder, ubuntu-ce-software-center
 Filename: ./ubuntu-ce-greeter_0.0.61-0ubuntu1_all.deb
-Size: 4842520
-MD5sum: e3f1926f6d8c2680650192808486e54d
-SHA1: a629ea32a7fc1b65f8df125d53a03bd635cb215a
-SHA256: 8a79dfb3725f60474400fd62efdb24559531434d73c015d0ed7d14055be8c3bd
+Size: 4842566
+MD5sum: 108604a28a210600d23d395d9f7beb4f
+SHA1: 59dcb64f8f938159fd3e5138c2115582722ef3b9
+SHA256: 6e84aefe19b134ce34791a895bcaf97ccc974750bc819abcf60fbba0b1e4ebda
 Section: contrib/utils
 Priority: optional
 Description: Linux For Christians

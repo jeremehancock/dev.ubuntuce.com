@@ -1,3 +1,37 @@
+Package: dnsminder
+Version: 0.0.4
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 51.7
+Depends: zenity, resolvconf
+Filename: ./dnsminder_0.0.4_all.deb
+Size: 16620
+MD5sum: 9110fd841424e38d4c8448f9d7685343
+SHA1: 01241b805f89b1991bbc81db26b895405df1a192
+SHA256: dc29ce87ccd403b7d9537f8ef4225e903dac5fddd99f8d9f18a6ff3c522f11a3
+Section: web
+Priority: optional
+Description: DNS Minder
+
+Package: freeshow
+Version: 0.3.2
+Architecture: amd64
+Maintainer: Kristoffer Vassbø <kristoffer@vassbo.net>
+Installed-Size: 277328
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Filename: ./freeshow_0.3.2_amd64.deb
+Size: 71219336
+MD5sum: 9bafd9812c958200dc05574e32d896ec
+SHA1: d45570504f66f40576a578b8dedc296d5e98e7b7
+SHA256: 062ed19b83001e26686b2de4310b1e1b1cd5c7f86074594f90db4fc21d372b7b
+Section: default
+Priority: extra
+Homepage: https://github.com/vassbo/freeshow#readme
+Description:
+  An application for showing song lyrics and more for free!
+License: GPL-3.0
+Vendor: Kristoffer Vassbø <kristoffer@vassbo.net>
+
 Package: hostminder
 Version: 0.0.6
 Architecture: all
@@ -29,15 +63,15 @@ Priority: optional
 Description: Presenter by WorshipTools
 
 Package: ubuntu-ce-branding
-Version: 0.0.3
+Version: 0.0.4
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 360
-Filename: ./ubuntu-ce-branding_0.0.3_all.deb
-Size: 109672
-MD5sum: 9b0fbeca7fdfc5dcd82db5ba1708d8d2
-SHA1: 96fbbe1d1d52740f3cc1543449f1c53fafa6ca54
-SHA256: 62d9c53d8aefdccfe58aa8162b85af75046f69dd1d0df3b1f64cdfead02e2e5b
+Filename: ./ubuntu-ce-branding_0.0.4_all.deb
+Size: 109708
+MD5sum: 55c50a42d6125226bf4540e9331944fb
+SHA1: ccff405de05bf08c5f22be040f4f3df59f840f01
+SHA256: 8033ffcee6efb232a1a6eb5c32369ac8fbeb612573fd03cffbeffc540129800a
 Section: x11
 Priority: optional
 Description: UbuntuCE Branding

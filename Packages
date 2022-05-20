@@ -43,16 +43,16 @@ Priority: optional
 Description: UbuntuCE Branding
 
 Package: ubuntu-ce-greeter
-Version: 0.0.59-0ubuntu1
+Version: 0.0.61-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
-Installed-Size: 6078
+Installed-Size: 6127
 Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, hostminder, dnsminder, ubuntu-ce-software-center
-Filename: ./ubuntu-ce-greeter_0.0.59-0ubuntu1_all.deb
-Size: 4799428
-MD5sum: 81c69a8ee5757a2b85c1157a40afe3c4
-SHA1: 744fbc569499a02b8e51d69cdd6e3e54d2a633f1
-SHA256: e63615a5b15b43be35f1f3bd73ec3b06735fc6cb8dfb2f7212afaca41071b490
+Filename: ./ubuntu-ce-greeter_0.0.61-0ubuntu1_all.deb
+Size: 4842520
+MD5sum: e3f1926f6d8c2680650192808486e54d
+SHA1: a629ea32a7fc1b65f8df125d53a03bd635cb215a
+SHA256: 8a79dfb3725f60474400fd62efdb24559531434d73c015d0ed7d14055be8c3bd
 Section: contrib/utils
 Priority: optional
 Description: Linux For Christians

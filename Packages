@@ -1,14 +1,14 @@
 Package: dnsminder
-Version: 0.0.4
+Version: 0.0.5
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 51.7
 Depends: zenity, resolvconf
-Filename: ./dnsminder_0.0.4_all.deb
-Size: 16620
-MD5sum: 9110fd841424e38d4c8448f9d7685343
-SHA1: 01241b805f89b1991bbc81db26b895405df1a192
-SHA256: dc29ce87ccd403b7d9537f8ef4225e903dac5fddd99f8d9f18a6ff3c522f11a3
+Filename: ./dnsminder_0.0.5_all.deb
+Size: 16986
+MD5sum: f58e64aee5c2985ff8de0a396098f672
+SHA1: 291e87dbf7b9ec94fc80a9f4dcf7a0303b4e76d8
+SHA256: 0bda0b20cef0dbf8f66cdbb0a2d26f2523b2c81fb2f2fb4be7188317448c6f40
 Section: web
 Priority: optional
 Description: DNS Minder
@@ -33,16 +33,16 @@ License: GPL-3.0
 Vendor: Kristoffer Vassbø <kristoffer@vassbo.net>
 
 Package: hostminder
-Version: 0.0.6
+Version: 0.0.7
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 51.7
-Depends: zenity
-Filename: ./hostminder_0.0.6_all.deb
-Size: 10256
-MD5sum: 1f6415cb7fddc8614fa4e47cff989fa4
-SHA1: 11f83a7ee5415a0002bf5f7db1823556261e3bc8
-SHA256: 1e8686da997f2454b0ffb1bb842b6a0d2a199c67f8d43320f5ab0ca0bb138ed8
+Depends: zenity, gedit
+Filename: ./hostminder_0.0.7_all.deb
+Size: 10544
+MD5sum: 0e12737359d22e8d5add1c383fc03552
+SHA1: 5a5f782c625174a88452958e5983710c0f49ff80
+SHA256: 40ca510dcb05ebf8bc0cdcf8bacbb2781216fa39f1712c99a2af0a16aa64f7e4
 Section: web
 Priority: optional
 Description: Host Minder

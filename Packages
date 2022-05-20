@@ -1,14 +1,14 @@
 Package: dnsminder
-Version: 0.0.5
+Version: 0.0.6
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 51.7
 Depends: zenity, resolvconf
-Filename: ./dnsminder_0.0.5_all.deb
-Size: 16986
-MD5sum: f58e64aee5c2985ff8de0a396098f672
-SHA1: 291e87dbf7b9ec94fc80a9f4dcf7a0303b4e76d8
-SHA256: 0bda0b20cef0dbf8f66cdbb0a2d26f2523b2c81fb2f2fb4be7188317448c6f40
+Filename: ./dnsminder_0.0.6_all.deb
+Size: 16978
+MD5sum: ef66a50a79346126e3539428f3e04da2
+SHA1: 82f11bbf9fd884aac264e0a6174ba693e811e873
+SHA256: af8951bf2e00e6304e0ff43896ce7a53a8fd0b6dbf993bf7ae23d483d042f979
 Section: web
 Priority: optional
 Description: DNS Minder

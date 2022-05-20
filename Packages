@@ -63,15 +63,15 @@ Priority: optional
 Description: Presenter by WorshipTools
 
 Package: ubuntu-ce-branding
-Version: 0.0.5
+Version: 0.0.6
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 360
-Filename: ./ubuntu-ce-branding_0.0.5_all.deb
-Size: 109712
-MD5sum: 80701ad18bc20a5761db52c2e91ca69a
-SHA1: 416d355dded49307d13bbf2aecee4f1c30a8cdbe
-SHA256: fd7823369762b78c819aa899dad110fdabc9450dc963e605f254f7156e76516a
+Filename: ./ubuntu-ce-branding_0.0.6_all.deb
+Size: 109784
+MD5sum: 1acbdedf2f3ec05ff2f10f8f677fd40e
+SHA1: 75e3cc86ae8be4a505c7efaeebd8f809c97ca2c4
+SHA256: aae6cc15b8d7e4df7a61bb47e6e0913b2687f564685cf72f4e5b2d205a6dbe85
 Section: x11
 Priority: optional
 Description: UbuntuCE Branding

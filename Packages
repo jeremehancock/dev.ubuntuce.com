@@ -43,16 +43,16 @@ Priority: optional
 Description: UbuntuCE Branding
 
 Package: ubuntu-ce-greeter
-Version: 0.0.61-0ubuntu1
+Version: 0.0.65-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 6127
-Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, hostminder, dnsminder, ubuntu-ce-software-center
-Filename: ./ubuntu-ce-greeter_0.0.61-0ubuntu1_all.deb
-Size: 4842566
-MD5sum: 108604a28a210600d23d395d9f7beb4f
-SHA1: 59dcb64f8f938159fd3e5138c2115582722ef3b9
-SHA256: 6e84aefe19b134ce34791a895bcaf97ccc974750bc819abcf60fbba0b1e4ebda
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, hostminder, dnsminder, ubuntu-ce-software-center
+Filename: ./ubuntu-ce-greeter_0.0.65-0ubuntu1_all.deb
+Size: 4842556
+MD5sum: a06f2dcbc77233031180fe2c717dae63
+SHA1: 4e29dfe655c48ac647677321278b8f80ed48414f
+SHA256: 4c1889c53120b12a03e4ba89296fc2ad88aa0c5e0fff7d1bd79e7284a6bee57f
 Section: contrib/utils
 Priority: optional
 Description: Linux For Christians

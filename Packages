@@ -63,15 +63,15 @@ Priority: optional
 Description: Presenter by WorshipTools
 
 Package: ubuntu-ce-branding
-Version: 0.0.7
+Version: 0.0.8
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 360
-Filename: ./ubuntu-ce-branding_0.0.7_all.deb
-Size: 109792
-MD5sum: 520f1018daa46ac1c115afd29681c869
-SHA1: 982c692e67f96c31005c436bfb59e657a4a3cb87
-SHA256: c6c1634dd4aaad9405ac348814eb22f8dc8c4d6456db4073a4ec5079cbbc5e2c
+Filename: ./ubuntu-ce-branding_0.0.8_all.deb
+Size: 109814
+MD5sum: c8a9ebcbc5516672e7dab633fccad1da
+SHA1: af42bd02d92c7112a014d9b640735eb4d9feea54
+SHA256: bb4594efd75b6459041388cd625e910a897f0c46cfddecfe00afda27434ad056
 Section: x11
 Priority: optional
 Description: UbuntuCE Branding
@@ -92,16 +92,16 @@ Priority: optional
 Description: Parental Controls
 
 Package: ubuntu-ce-software-center
-Version: 0.0.46-0ubuntu1
+Version: 0.0.49-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 546
-Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), snapd, flatpak, gambas3-gb-jit, gnome-terminal, curl, wget, gambas3-gb-gui, gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11
-Filename: ./ubuntu-ce-software-center_0.0.46-0ubuntu1_all.deb
-Size: 424048
-MD5sum: 5b82f0688f042d7feb73906146936b21
-SHA1: e49558e8b514a5b199085af8781be5d122d62c89
-SHA256: 973472fb4819b9360470d7e51a9630f1956a884ec33d975a406b16bcfce4d5fd
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), snapd, flatpak, gambas3-gb-jit, gnome-terminal, curl, wget, gambas3-gb-gui, gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11
+Filename: ./ubuntu-ce-software-center_0.0.49-0ubuntu1_all.deb
+Size: 424068
+MD5sum: da66f75d01d92bee26b9a410e7ebb5d1
+SHA1: 41d7bef8e838f8f8bc37334fbaab80275e53b25f
+SHA256: 1c0ee89a60156ecca4cb1325cbbb02114704a0b461d2125eb076f3150d5f6795
 Section: contrib/utils
 Priority: optional
 Description: Linux for Christians

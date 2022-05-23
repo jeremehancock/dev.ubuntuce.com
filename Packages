@@ -108,6 +108,23 @@ Description: Linux for Christians
  Linux for Christians
  This program is written in Gambas.
 
+Package: ubuntu-ce-software-center
+Version: 0.0.51-0ubuntu1
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 566
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), snapd, flatpak, gambas3-gb-jit, gnome-terminal, curl, wget, gambas3-gb-gui, gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11
+Filename: ./ubuntu-ce-software-center_0.0.51-0ubuntu1_all.deb
+Size: 427784
+MD5sum: d2c3eb791dc1e07278103b0d444ccb1a
+SHA1: 36a277f30c633f493fffe0df5313e793b611a7aa
+SHA256: 133581eb3bee170d4f27d29ab0b797455904182e1a960b05e541a32a0e36d6a2
+Section: contrib/utils
+Priority: optional
+Description: Linux for Christians
+ Linux for Christians
+ This program is written in Gambas.
+
 Package: ubuntu-ce-wallpapers
 Version: 0.0.3
 Architecture: all

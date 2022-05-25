@@ -48,16 +48,16 @@ Priority: optional
 Description: Host Minder
 
 Package: netbible
-Version: 0.0.5-0ubuntu1
+Version: 0.0.7-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 59
 Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-gtk3-webview, gambas3-gb-gtk3-wayland, gambas3-gb-gui, gambas3-gb-gtk3-x11
-Filename: ./netbible_0.0.5-0ubuntu1_all.deb
-Size: 19268
-MD5sum: 89b07393ca044e3570c9dba6dbc6058a
-SHA1: 7bc68af0bdbfba7dbd36fbac97e9b7cf52f0e14f
-SHA256: 651043d4e0db6ba3d137ca3d4cf4774d9136a545001ef9e5a53cbf99484f428f
+Filename: ./netbible_0.0.7-0ubuntu1_all.deb
+Size: 19280
+MD5sum: 397cc83a5d2a810d43f9dba6c52e03e6
+SHA1: 6077714e11c0931f2d7a6fce92e2bf100271e985
+SHA256: 7935ae54ffa82a6ef7adae87877225fdc8cfd895af9b897b79aec379fb64b3a8
 Section: contrib/utils
 Priority: optional
 Description: NET Bible Web App

@@ -47,6 +47,21 @@ Section: web
 Priority: optional
 Description: Host Minder
 
+Package: netbible
+Version: 0.0.1
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 175
+Depends: chromium-browser
+Filename: ./netbible_0.0.1_all.deb
+Size: 5512
+MD5sum: 3c99fa2456f8c66c65597fa4924a0cb6
+SHA1: a8bb001a6b5b567f1399f27024364728e559996c
+SHA256: 510f1a11351933234e4772975587d10b246250557da84622744a9a3b516ff1a1
+Section: web
+Priority: optional
+Description: NET Bible
+
 Package: presenter-by-worship-tools
 Version: 0.0.6
 Architecture: all

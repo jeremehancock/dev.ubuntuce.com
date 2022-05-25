@@ -17,3 +17,6 @@ This is the DEV repo for [UbuntuCE](https://ubuntuce.com/).
 #### Update Packages
 `sudo apt update`
 
+## Disclaimer
+
+All code is provided as-is without any warranty.

@@ -48,19 +48,21 @@ Priority: optional
 Description: Host Minder
 
 Package: netbible
-Version: 0.0.1
+Version: 0.0.3-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
-Installed-Size: 175
-Depends: chromium-browser
-Filename: ./netbible_0.0.1_all.deb
-Size: 5512
-MD5sum: 3c99fa2456f8c66c65597fa4924a0cb6
-SHA1: a8bb001a6b5b567f1399f27024364728e559996c
-SHA256: 510f1a11351933234e4772975587d10b246250557da84622744a9a3b516ff1a1
-Section: web
+Installed-Size: 59
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0)
+Filename: ./netbible_0.0.3-0ubuntu1_all.deb
+Size: 19154
+MD5sum: 4c8b71335d3e6a7989f0c5277cc926e8
+SHA1: 6bfc7e945f2f8e4de6aa77de49fd124f7682b4e8
+SHA256: d3ea936408adb6a2c59189b218699009953b3b0cb67e39be6618d73dd2c846b8
+Section: contrib/utils
 Priority: optional
-Description: NET Bible
+Description: NET Bible Web App
+ NET Bible Web App
+ This program is written in Gambas.
 
 Package: presenter-by-worship-tools
 Version: 0.0.6

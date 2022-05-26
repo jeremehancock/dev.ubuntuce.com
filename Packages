@@ -143,16 +143,16 @@ Priority: optional
 Description: Parental Controls
 
 Package: ubuntu-ce-software-center
-Version: 0.0.62-0ubuntu1
+Version: 0.0.65-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
-Installed-Size: 758
+Installed-Size: 853
 Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), snapd, flatpak, gambas3-gb-jit, gnome-terminal, curl, wget, gambas3-gb-gui, gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11
-Filename: ./ubuntu-ce-software-center_0.0.62-0ubuntu1_all.deb
-Size: 609846
-MD5sum: 1b16506516d18f854db52777b7ee4f42
-SHA1: 9e10fd08b42375128fd141f4fc92d7c762776540
-SHA256: 49395e5ef9b68cd54baa8fba81b52c34db460c22403c6ef4005f9a1203938376
+Filename: ./ubuntu-ce-software-center_0.0.65-0ubuntu1_all.deb
+Size: 694454
+MD5sum: 3d7c3dd23a49d71532f1f9fadd47e9ce
+SHA1: 6ad902b0f9a31059069ce6cbac300140fe42419b
+SHA256: 3d7438697f2eb2d26914c2fa528ffd8d9cd47f46fd901c28ffc63116545c3c7a
 Section: contrib/utils
 Priority: optional
 Description: Linux for Christians

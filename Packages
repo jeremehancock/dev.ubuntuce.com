@@ -1,14 +1,14 @@
 Package: bible-web-app
-Version: 0.0.5-0ubuntu1
+Version: 0.0.7-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
-Installed-Size: 344
+Installed-Size: 412
 Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-gtk3-webview, gambas3-gb-gtk3-wayland, gambas3-gb-gui, gambas3-gb-gtk3-x11
-Filename: ./bible-web-app_0.0.5-0ubuntu1_all.deb
-Size: 305746
-MD5sum: f6360d9c22072b45e88e4ebb5c57ac75
-SHA1: 82b2cf01d53f8a6d0bcdf2a0f647a759d25710ed
-SHA256: 5ee1e3f8dd8ed0c8e52f9774cf417bed0973111f47a083b7ea2b2352e68c4341
+Filename: ./bible-web-app_0.0.7-0ubuntu1_all.deb
+Size: 232430
+MD5sum: a7e0eefa41fc0e69682218ca74c12b66
+SHA1: 1ec741f9a25081f486a3e594b5615a1f8f25f7f5
+SHA256: d16a4a9ae98cba537d07ab008ecf86d0c4eff12f20ec29b3cc7c40efca9b5f81
 Section: contrib/utils
 Priority: optional
 Description: Missing description.

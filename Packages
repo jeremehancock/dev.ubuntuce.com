@@ -33,19 +33,21 @@ Description: Blue Letter Bible Web App
  This program is written in Gambas.
 
 Package: dnsminder
-Version: 0.0.6
+Version: 0.0.7-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
-Installed-Size: 51.7
-Depends: zenity, resolvconf
-Filename: ./dnsminder_0.0.6_all.deb
-Size: 16978
-MD5sum: ef66a50a79346126e3539428f3e04da2
-SHA1: 82f11bbf9fd884aac264e0a6174ba693e811e873
-SHA256: af8951bf2e00e6304e0ff43896ce7a53a8fd0b6dbf993bf7ae23d483d042f979
-Section: web
+Installed-Size: 119
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-gtk3-x11, gambas3-gb-gtk3-wayland, gambas3-gb-gui, gambas3-gb-jit, resolvconf
+Filename: ./dnsminder_0.0.7-0ubuntu1_all.deb
+Size: 60400
+MD5sum: ac71a49a7631098c90569a44df779bf3
+SHA1: d967b2ff34c6e3fc1090e54682f255b436cb74d2
+SHA256: 95bfd33149a70b3be07c16073bac9c934b256d74b8bc11906a90db7592a9c7d8
+Section: contrib/utils
 Priority: optional
-Description: DNS Minder
+Description: Web Content Filtering
+ Web Content Filtering
+ This program is written in Gambas.
 
 Package: freeshow
 Version: 0.3.2

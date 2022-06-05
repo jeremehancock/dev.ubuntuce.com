@@ -99,16 +99,16 @@ Description: NET Bible Web App
  This program is written in Gambas.
 
 Package: presenter-by-worship-tools
-Version: 0.0.6
+Version: 0.0.7
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 139000
 Depends: zenity, curl, jq, wget, libfuse2
-Filename: ./presenter-by-worship-tools_0.0.6_all.deb
-Size: 8812
-MD5sum: 89700d1fb8d8622e83492f685a704598
-SHA1: dc421c162b2b8d9ab640fc38db60d9aa843f0629
-SHA256: bb8487867a441dde68bf94fa3f90e4fe4ed85495143f2d65ee5ffa68f311ace2
+Filename: ./presenter-by-worship-tools_0.0.7_all.deb
+Size: 8682
+MD5sum: 82c224423b55327410bd3b02c35152b6
+SHA1: 8e73c9e8ee897139bc5f5297046087449e83218d
+SHA256: 67c96248727a786ba606ad339a972950be5be7f720a1f1a6caec7e0bafd017f8
 Section: web
 Priority: optional
 Description: Presenter by WorshipTools

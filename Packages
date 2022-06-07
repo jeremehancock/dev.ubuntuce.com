@@ -174,16 +174,16 @@ Priority: optional
 Description: UbuntuCE Wallpapers
 
 Package: ubuntu-ce-welcome
-Version: 0.0.64-0ubuntu1
+Version: 0.0.66-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 6129
-Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, gambas3-gb-jit
-Filename: ./ubuntu-ce-welcome_0.0.64-0ubuntu1_all.deb
-Size: 4843510
-MD5sum: ee13347061ef6477f0dfc6fe69663570
-SHA1: 98065cc2905244db780e391cdb981dd66e26a05c
-SHA256: 57e7ff65278ba42f8f42eea4b5190d9c9f118fb682edbfc3a86fd23543b95d18
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-gtk3-wayland, gambas3-gb-gtk3-x11, gambas3-gb-gui, gambas3-gb-jit
+Filename: ./ubuntu-ce-welcome_0.0.66-0ubuntu1_all.deb
+Size: 4843552
+MD5sum: e0001070f151455f4ca721b6995e955a
+SHA1: a068b7a6226a8e007e4573a76b424c3d4910e38f
+SHA256: 55371fa58728c9f8e7f616031cee038368995468bd327aac21c5663e4fb237ec
 Section: contrib/utils
 Priority: optional
 Description: Linux for Christians

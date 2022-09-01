@@ -16,16 +16,16 @@ Description: Missing description.
  This program is written in Gambas.
 
 Package: blue-letter-bible
-Version: 0.0.3-0ubuntu1
+Version: 0.0.5-0ubuntu1
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 158
-Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-gtk3-webview, gambas3-gb-gtk3-wayland, gambas3-gb-gui, gambas3-gb-gtk3-x11
-Filename: ./blue-letter-bible_0.0.3-0ubuntu1_all.deb
-Size: 118008
-MD5sum: dee6e857afb98c73b11fecb474e3e1aa
-SHA1: 901d10c9177388975989ec2ac06e6dfc9a96bdac
-SHA256: 34de5ea1f6ada2922cd6cd39ca4b9c432c2de7a1bd723ca7ad6ef74b24e55584
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-gtk3-webview, gambas3-gb-gtk3-wayland, gambas3-gb-gui, gambas3-gb-gtk3-x11
+Filename: ./blue-letter-bible_0.0.5-0ubuntu1_all.deb
+Size: 117990
+MD5sum: 6f588b1ed27789d0ee009da90bbe69b9
+SHA1: 7776c60a3ddcb9fe3eb033edf51db2117bae120f
+SHA256: 707f0d207f0edfd885a3249af227a9d2c70e4239ab70a932176843d69693970a
 Section: contrib/utils
 Priority: optional
 Description: Blue Letter Bible Web App

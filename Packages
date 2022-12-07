@@ -48,18 +48,19 @@ Priority: optional
 Description: Web Content Filtering
 
 Package: freeshow
-Version: 0.6.0
+Version: 0.6.1
 Architecture: amd64
 Maintainer: Kristoffer Vassbø <kristoffer@vassbo.net>
-Installed-Size: 336245
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
-Filename: ./freeshow_0.6.0_amd64.deb
-Size: 82511508
-MD5sum: 58ea4d06992debd228bfc51d9d161e4f
-SHA1: 4077766cfdb8ab281dc85daab1643de0dcbc3b53
-SHA256: 2b5c7c7829bb54a29ab938dd5f84c92e9c8ab989e60a5fa81218cd182690575e
+Installed-Size: 321497
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./freeshow_0.6.1_amd64.deb
+Size: 80370900
+MD5sum: a2e151338b606d2b2ed419f5cc357cee
+SHA1: 07b927f05f71814dc2c7a6af758673b999bbd5c2
+SHA256: ef4eacbab63660090dc6eb4f5aac3aa18bd2d57f500eb575e2dd8334741685ca
 Section: default
-Priority: extra
+Priority: optional
 Homepage: https://github.com/vassbo/freeshow#readme
 Description:
   An application for showing song lyrics and more for free!

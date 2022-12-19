@@ -2,7 +2,4 @@
   Require all denied
 </Files>
 
-<Directory .git>
-    order allow,deny
-    deny from all
-</Directory>
+RedirectMatch 404 /\.git

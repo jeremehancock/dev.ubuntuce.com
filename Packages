@@ -68,16 +68,16 @@ License: GPL-3.0
 Vendor: Kristoffer Vassbø <kristoffer@vassbo.net>
 
 Package: hostminder
-Version: 0.0.7
+Version: 0.0.8
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
 Installed-Size: 51.7
 Depends: zenity, gedit
-Filename: ./hostminder_0.0.7_all.deb
-Size: 10544
-MD5sum: 0e12737359d22e8d5add1c383fc03552
-SHA1: 5a5f782c625174a88452958e5983710c0f49ff80
-SHA256: 40ca510dcb05ebf8bc0cdcf8bacbb2781216fa39f1712c99a2af0a16aa64f7e4
+Filename: ./hostminder_0.0.8_all.deb
+Size: 10638
+MD5sum: 23889d8d33341e465d321413c82f0d54
+SHA1: 1b28259262fc4de2055841023ccb70546fb8d593
+SHA256: bce802cfd5efcd0b2b6da2a519e454378946172a290f6f9058273a014d7b0570
 Section: web
 Priority: optional
 Description: Host Minder

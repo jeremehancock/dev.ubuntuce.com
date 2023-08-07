@@ -48,17 +48,17 @@ Priority: optional
 Description: Web Content Filtering
 
 Package: freeshow
-Version: 0.9.3
+Version: 0.9.4
 Architecture: amd64
 Maintainer: Kristoffer Vassbø <kristoffer@vassbo.net>
-Installed-Size: 335631
+Installed-Size: 335795
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./freeshow_0.9.3_amd64.deb
-Size: 82619804
-MD5sum: f87e7e394e7cc766846b53fd880c18fa
-SHA1: abe79f9b8ebaaf64d789685580e3ccfe46c53f6f
-SHA256: 5d7f7c32b728093b962e2e517599d9fccdb41b556dc7bb4bf2958581c8714b0e
+Filename: ./freeshow_0.9.4_amd64.deb
+Size: 82494790
+MD5sum: 2cd8dd929345c861961a8123f6dae05e
+SHA1: 309913faf7e6aef44e8d45ea5ed2dbea07ded30e
+SHA256: 1e99824551f6239481ca3e9a166c74af05887537e7e4710190a915341d5ffc64
 Section: default
 Priority: optional
 Homepage: https://github.com/vassbo/freeshow#readme

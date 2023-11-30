@@ -48,24 +48,24 @@ Priority: optional
 Description: Web Content Filtering
 
 Package: freeshow
-Version: 0.9.9
+Version: 1.0.0
 Architecture: amd64
-Maintainer: Kristoffer Vassbø <kristoffer@vassbo.net>
-Installed-Size: 367131
+Maintainer: ChurchApps <support@livecs.org>
+Installed-Size: 367145
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./freeshow_0.9.9_amd64.deb
-Size: 85686500
-MD5sum: d432574a4d934225558b35d4401fddb2
-SHA1: 21fd263713be1c2a929f1c9130c6a87da42d61af
-SHA256: 968d7f771a5090ddfdb0e1cebc26888072631d035b36cb5a8d21bdf089031c86
+Filename: ./freeshow_1.0.0_amd64.deb
+Size: 87015352
+MD5sum: 4fd2720c9bbf8947021731e2a7b16777
+SHA1: ba0dc7248754798542be2e0ed442e4a6d8d68b89
+SHA256: 519df650335035e30619170725bacf6f306ad2b5176cad8497618935e12f7d95
 Section: default
 Priority: optional
-Homepage: https://github.com/vassbo/freeshow#readme
+Homepage: https://github.com/ChurchApps/FreeShow#readme
 Description:
-  An application for showing song lyrics and more for free!
+  Show song lyrics and more for free!
 License: GPL-3.0
-Vendor: Kristoffer Vassbø <kristoffer@vassbo.net>
+Vendor: ChurchApps <support@livecs.org>
 
 Package: hostminder
 Version: 0.0.8

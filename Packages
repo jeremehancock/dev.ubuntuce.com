@@ -48,17 +48,17 @@ Priority: optional
 Description: Web Content Filtering
 
 Package: freeshow
-Version: 1.1.6
+Version: 1.1.7
 Architecture: amd64
 Maintainer: ChurchApps <support@livecs.org>
-Installed-Size: 388683
+Installed-Size: 388881
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./freeshow_1.1.6_amd64.deb
-Size: 85898752
-MD5sum: 370228eb8739a074dd53f83593fe4406
-SHA1: 4143b77b1e4fee9a9552fe7087ab872ff3a041c1
-SHA256: 1f62d49eec4e8b29212b8632d42cb84262ef0cef1875796afaa134349cb5dfbf
+Filename: ./freeshow_1.1.7_amd64.deb
+Size: 85325222
+MD5sum: d2e14dc32e499ea70e6e6a23af690e34
+SHA1: c8e05e54f9294fb1ffe9d9ee05a256f0b837d2b1
+SHA256: 96272ea8e31001454f095b4cb8ec2b362707bd2f7ba7e716bdd39a4e61909591
 Section: default
 Priority: optional
 Homepage: https://github.com/ChurchApps/FreeShow#readme
